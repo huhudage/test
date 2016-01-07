@@ -5,7 +5,8 @@
 			"path": "phaser"
 		},
 		{
-			"path": "phaser-examples"
+			"path": "phaser-examples",
+            "a": "b"
 		}
 	]
 }
